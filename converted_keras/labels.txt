@@ -1,0 +1,10 @@
+0 biodegradable 
+1 crushed
+2 cups
+3 glass
+4 metal and stones
+5 oil cans
+6  plastic bottles
+7 plastic bags
+8 sippers
+9 soap dispenser
