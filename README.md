@@ -1,5 +1,11 @@
 # Poly-recycler
 
+This project can be advantageous at various locations not limited to railway stations, bus stands or shopping malls. The huge amount of plastic bottle wasted which is dumped on these public places can be easily collected if such machines are installed at these places.
+This is a device that accepts used plastic containers and returns money to the user.
+The basic operations involve steps where the recycler places the empty bottle/can into the receiving aperture, the horizontal in-feed system allows the user to insert containers one at a time. The bottle/can is then automatically scanned. 
+As for the reward system, it distributes valuable tokens, like coins or coupons, when beverage containers are recycled. 
+
+![image](https://user-images.githubusercontent.com/71717105/179400534-df3114b9-5704-44c3-a049-ff42a46618cc.png)
 ![Screenshot (10)](https://user-images.githubusercontent.com/71717105/179400458-77a3a70d-24ce-479e-ba9f-5e2e15eb8ad5.png)
 ![Screenshot (9)](https://user-images.githubusercontent.com/71717105/179400461-e091b85e-96ed-4751-b7f0-1b0452ae4df8.png)
 ![Screenshot (8)](https://user-images.githubusercontent.com/71717105/179400463-a1a01358-76ea-4fc5-bd82-7a1370d6b6ec.png)
