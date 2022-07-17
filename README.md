@@ -3,7 +3,12 @@
 This project can be advantageous at various locations not limited to railway stations, bus stands or shopping malls. The huge amount of plastic bottle wasted which is dumped on these public places can be easily collected if such machines are installed at these places.
 This is a device that accepts used plastic containers and returns money to the user.
 The basic operations involve steps where the recycler places the empty bottle/can into the receiving aperture, the horizontal in-feed system allows the user to insert containers one at a time. The bottle/can is then automatically scanned. 
-As for the reward system, it distributes valuable tokens, like coins or coupons, when beverage containers are recycled. 
+As for the reward system, it distributes valuable tokens, like coins or coupons, when beverage containers are recycled.
+
+![image](https://user-images.githubusercontent.com/71717105/179400793-d82c58af-f5d6-4c22-91b5-0ca3672fb423.png)
+![image](https://user-images.githubusercontent.com/71717105/179400809-40a70f63-09c5-4054-9918-7a31b47845f6.png)
+
+![image](https://user-images.githubusercontent.com/71717105/179400759-3c9f367b-dbc3-414f-9da2-129380506b98.png)
 
 ![image](https://user-images.githubusercontent.com/71717105/179400534-df3114b9-5704-44c3-a049-ff42a46618cc.png)
 ![Screenshot (10)](https://user-images.githubusercontent.com/71717105/179400458-77a3a70d-24ce-479e-ba9f-5e2e15eb8ad5.png)
